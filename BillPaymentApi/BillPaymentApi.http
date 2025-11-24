@@ -1,0 +1,6 @@
+@BillPaymentApi_HostAddress = http://localhost:5253
+
+GET {{BillPaymentApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
