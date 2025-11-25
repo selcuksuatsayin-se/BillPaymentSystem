@@ -82,7 +82,7 @@ dotnet run
 
 ---
 
-## 🗂️ Database Model
+## 🗂️ Data Model
 <img width="672" height="375" alt="image" src="https://github.com/user-attachments/assets/64ca3d80-3b3c-44ea-9cce-eb8c3a6e4fa2" />
 
 ## 🎥 Project Demo Video
