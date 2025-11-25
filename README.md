@@ -4,11 +4,15 @@ This project is the Backend API application of the **Mobile Operator Bill Paymen
 
 The project includes RESTful services that manage subscribers invoice querying, banks integration, and admins invoice uploading processes.
 
+## 🔗 Code Repository
+**Github Repository:** [https://github.com/selcuksuatsayin-se/PlaylistAPI](https://github.com/selcuksuatsayin-se/BillPaymentSystem) 
+
 ## 🚀 Live Demo (Live URL)
 The project is live on Azure App Service :   
 **Swagger UI:** [https://billpayment-api-selcuk-fah3erbdeuhva6e8.canadacentral-01.azurewebsites.net/swagger](https://billpayment-api-selcuk-fah3erbdeuhva6e8.canadacentral-01.azurewebsites.net/swagger)
 
----
+
+--- 
 
 ## 🏗 Architectural and Design Decisions
 
@@ -29,7 +33,7 @@ The project is built on a **Monolithic** structure and operates an **API Gateway
 
 ---
 
-## ✅ Tamamlanan Gereksinimler
+## ✅ Completed Requirements
 
 | Feature | Status | Description |
 | :--- | :--- | :--- |
@@ -75,3 +79,11 @@ dotnet run
 
 **3. Payment (No Auth):**
 * You can make payments without using tokens via the `/api/v1/Payment/pay` endpoint.
+
+---
+
+## 🗂️ Database Model
+<img width="672" height="375" alt="image" src="https://github.com/user-attachments/assets/64ca3d80-3b3c-44ea-9cce-eb8c3a6e4fa2" />
+
+## 🎥 Project Demo Video
+**Link:** [https://youtu.be/_5SYkW_qPjM](https://youtu.be/_5SYkW_qPjM)
