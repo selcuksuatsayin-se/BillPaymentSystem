@@ -69,8 +69,8 @@ var app = builder.Build();
 
 // if (app.Environment.IsDevelopment())
 // {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+app.UseSwagger();
+app.UseSwaggerUI();
 // }
 
 app.UseHttpsRedirection();
@@ -81,7 +81,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 
-// --- AUTOMATIC MIGRATION CODE ---
+// ---- AUTOMATIC MIGRATION CODE ----
 // Every time the application starts, it checks the database, creates it if it doesn't exist, and performs updates.
 using (var scope = app.Services.CreateScope())
 {
